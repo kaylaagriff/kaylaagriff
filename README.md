@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaylaagriff
+- 👋 Hi, I’m Kayla Griffin.
 - 👀 I’m interested in learning more about Front End Development.
 - 🌱 I’m currently learning HTML & CSS.
 - 💞️ I’m looking to collaborate on I'm not quite sure yet.
